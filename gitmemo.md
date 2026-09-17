@@ -45,3 +45,6 @@ $ `git remote add origin …`
 - 登録したリモートリポジトリへ、ローカルリポジトリの内容を反映すると同時
 に、上流ブランチを設定する。   
 $ `git push -u origin main`  
+### GitHub のリモートリポジトリを、新しいGitローカルリポジトリとして複
+製(展開)する。 
+$ ` git clone …`  
